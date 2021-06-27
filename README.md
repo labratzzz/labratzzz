@@ -16,6 +16,4 @@ For now feel free to watch and comment on my repositories - maybe it will add so
 
 *Thanks for reading!*
 
-- - -
-
 ![endcover](.github/Nanjō_Sachi_cover.png)

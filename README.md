@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**labratzzz/labratzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Michael and I'm PHP and .NET developer
+<sub>*mostly back-end, but sometimes I try to do something with Javascript or other front-end technologies.*</sub>
 
-Here are some ideas to get you started:
+- - -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't have that goal yet, but I hope I will maintain my profile and repositories more carefully soon.
+For now feel free to watch and comment on my repositories - maybe it will add some inspiration to me.
+
+- 💼 I’m currently working at [Satellite-Soft LLC](http://www.satellite-soft.ru)
+- 🌱 I don't study anywhere currently, but hope to enter university next year.
+- 💬 Ask me about... PHP and .NET (unexpectedly, right? (not the best part))
+- ✨ Dreaming about travels around the world
+- 🗣️ If you somehow interested in communicating with me it would be a wonderful opportunity for me to develop my english-speaking skills
+
+*Thanks for reading!*
+
+- - -
+
+![endcover](.github/Nanjō_Sachi_cover.png)

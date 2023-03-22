@@ -8,7 +8,7 @@
 I don't have that goal yet, but I hope I will maintain my profile and repositories more carefully soon.
 For now feel free to watch and comment on my repositories - maybe it will add some inspiration to me.
 
-- 💼 I’m currently working at [Satellite-Soft LLC](http://www.satellite-soft.ru)
+- 💼 I’m currently working at [Reliable Systems LLC](https://relsys.tech/)
 - 🌱 I don't study anywhere currently, but hope to enter university next year.
 - 💬 Ask me about... PHP and .NET (unexpectedly, right? (not the best part))
 - ✨ Dreaming about travels around the world
